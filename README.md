@@ -48,7 +48,7 @@ Desta maneira, aqui estão alguns projetos que desenvolvo(vi).<br>
   <a href = "mailto:viniciusvinha98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vinicius-vinha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/viniciusvinha/viniciusvinha/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 -->
