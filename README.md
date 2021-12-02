@@ -20,8 +20,8 @@ Desta maneira, aqui estão alguns projetos que desenvolvo(vi).<br>
 
 <div align="center">
   <a href="https://github.com/viniciusvinha">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusvinha&show_icons=true&theme=darkt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusvinha&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=viniciusvinha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusvinha&layout=compact&langs_count=16&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vinicius-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -38,8 +38,6 @@ Desta maneira, aqui estão alguns projetos que desenvolvo(vi).<br>
   <img align="center" alt="Vinicius-Vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img align="center" alt="Vinicius-Photo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
   
-  <img align="right" alt="Vinicius-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-</div>
   
   ##
  
