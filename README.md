@@ -23,6 +23,10 @@ Desta maneira, aqui estão alguns projetos que desenvolvo(vi).<br>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=viniciusvinha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusvinha&layout=compact&langs_count=16&theme=dark"/>
 </div>
+  
+##
+  
+<h3>Linguagens e Ferramentas<h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vinicius-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vinicius-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -39,7 +43,7 @@ Desta maneira, aqui estão alguns projetos que desenvolvo(vi).<br>
   <img align="center" alt="Vinicius-Photo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
   
   
-  ##
+##
  
 <div> 
   <a href="https://www.instagram.com/viniciusvinha" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
