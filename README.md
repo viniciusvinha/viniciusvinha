@@ -53,4 +53,4 @@ Desta maneira, aqui estão alguns projetos que desenvolvo(vi).<br>
   ![Snake animation](https://github.com/viniciusvinha/viniciusvinha/blob/output/github-contribution-grid-snake.svg)
  
 </div>
--->
+
