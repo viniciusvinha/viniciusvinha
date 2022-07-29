@@ -12,7 +12,7 @@ Por ser uma pessoa curiosa e dedicada, busco constantemente apreender cada vez m
 Desta maneira, aqui estão alguns projetos que desenvolvo(vi).<br>
 
 🌱 Atualmente curso Bacharelado em Ciência e Tecnologia e Ciência da Computação pela UFABC; <br>
-🌱 Futuro desenvolvedor JAVA Full Stack Júnior pela Generation Brasil; <br>
+🌱 Desenvolvedor JAVA Full Stack Júnior pela Generation Brasil; <br>
 💬 Qualquer dúvida, inquietação ou simplesmente queira mandar um oi, fique à vontade; <br>
 📫 Contate-me no email: vinicius_vinha@hotmail.com; <br>
 😄 Pronomes: Ele/Dele/He
